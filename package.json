@@ -1,0 +1,15 @@
+{
+  "name": "raksha-4u-service",
+  "version": "1.0.0",
+  "description": "raksha app all service ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "aashish",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^5.0.1",
+    "express": "^4.17.2"
+  }
+}
